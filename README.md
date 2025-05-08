@@ -1,6 +1,4 @@
 # PlotlyDash Overview
-Boiler Plate Code for a Plotly Dashboard
-run locally on http://127.0.0.1:8050/
 ## Purpose and Scope
 This document provides a comprehensive introduction to the PlotlyDash repository, which serves as boilerplate code for creating interactive data visualization dashboards using Plotly Dash. It covers the high-level architecture of the framework, key features, and the template structure.
 ## What is PlotlyDash?
